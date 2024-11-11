@@ -3,7 +3,7 @@
 オブジェクト指向プログラミングにおいて、ソフトウェア設計の際に従うべき5つの原則。次の5つの原則の頭文字をとって、SOLID原則と呼ばれる。
 
 - **S** : Single responsibility principle（単一責任の原則）
-- **O** : Open/closed principle（オープン・クローズドの原則）
+- **O** : [Open/closed principle（オープン・クローズドの原則）](https://github.com/superneko160/OCP)
 - **L** : [Liskov substitution principle（リスコフの置換原則）](https://github.com/superneko160/LSP)
 - **I** : Interface segregation principle（インターフェース分離の原則）
 - **D** : [Dependency inversion principle（依存関係逆転の原則）](https://github.com/superneko160/DIP)
