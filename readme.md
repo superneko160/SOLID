@@ -5,7 +5,7 @@
 - **S** : [Single responsibility principle（単一責任の原則）](https://github.com/superneko160/SRP)
 - **O** : [Open/closed principle（オープン・クローズドの原則）](https://github.com/superneko160/OCP)
 - **L** : [Liskov substitution principle（リスコフの置換原則）](https://github.com/superneko160/LSP)
-- **I** : Interface segregation principle（インターフェース分離の原則）
+- **I** : [Interface segregation principle（インターフェース分離の原則）](https://github.com/superneko160/ISP)
 - **D** : [Dependency inversion principle（依存関係逆転の原則）](https://github.com/superneko160/DIP)
 
 ## 原則を守るメリット
