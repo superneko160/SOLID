@@ -12,3 +12,7 @@
 
 開発者がSOLID原則を適切に利用すれば、コードの品質が向上し、設計スキルを高められる。また、SOLID原則を理解することで、他の開発者とのコミュニケーションが円滑になる。
 注意点として、SOLID原則はあらゆる状況で最適解となるわけではない。原則を守ることに固執すれば、かえってコードの可読性が低下したり、開発効率が落ちたりする場合もある。
+
+## 参考
+
+- [The S.O.L.I.D Principles in Pictures|by Ugonna Thelma](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
